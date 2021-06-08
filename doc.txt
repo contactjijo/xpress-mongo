@@ -1,0 +1,9 @@
+Commands
+
+1. npm init
+
+2. npm install express-generator express-mongoose-generator -D
+
+3. npm install dotenv express mongoose nodemon 
+
+4. 
